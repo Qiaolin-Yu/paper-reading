@@ -1,6 +1,6 @@
 # Paper Reading
 
-A list to record the papers I have read.
+A list of papers I have read.
 
 ## Table of Contents
 
