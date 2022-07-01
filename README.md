@@ -5,6 +5,7 @@ A list of papers I have read.
 ## KV Store
 
 - [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
+- [MyRocks: LSM-Tree Database Storage Engine Serving Facebook's Social Graph](https://scontent-hkg4-2.xx.fbcdn.net/v/t39.8562-6/240834586_4644225018921150_5834039345161000687_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=wEMQekAxgEAAX8VjjmO&_nc_ht=scontent-hkg4-2.xx&oh=00_AT-rX_BQ8qOdruTomBPnhDxgceZ8S947JBlHL_PLyUEESw&oe=62C1D886)
 
 ## Data Warehouse
 
