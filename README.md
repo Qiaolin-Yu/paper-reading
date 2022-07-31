@@ -2,7 +2,7 @@
 
 A list of papers I have read.
 
-## KV Store
+## LSM-Tree
 
 - [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 - [MyRocks: LSM-Tree Database Storage Engine Serving Facebook's Social Graph](https://vldb.org/pvldb/vol13/p3217-matsunobu.pdf)
