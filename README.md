@@ -27,6 +27,7 @@ A list of papers I have read.
 - [The Design of a Practical System for Fault-Tolerant Virtual Machines](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
 - [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf)
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
+- [Strong and Efficient Consistency with Consistency-Aware Durability](https://www.usenix.org/system/files/fast20-ganesan.pdf)
 
 ## Others
 
