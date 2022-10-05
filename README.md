@@ -7,6 +7,7 @@ A list of papers I have read.
 - [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 - [MyRocks: LSM-Tree Database Storage Engine Serving Facebook's Social Graph](https://vldb.org/pvldb/vol13/p3217-matsunobu.pdf)
 - [PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees](https://www.cs.utexas.edu/~rak/papers/sosp17-pebblesdb.pdf)
+- [Nova-LSM: A Distributed, Component-based LSM-tree Key-value Store](https://dl.acm.org/doi/10.1145/3448016.3457297)
 
 ## Data Warehouse
 
