@@ -33,3 +33,5 @@ A list of papers I have read.
 ## Others
 
 - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf)
+- [Optimizing Bloom Filter: Challenges, Solutions, and Comparisons](https://arxiv.org/pdf/1804.04777.pdf)
+
