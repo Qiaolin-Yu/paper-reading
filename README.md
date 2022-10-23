@@ -9,9 +9,10 @@ A list of papers I have read.
 - [PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees](https://www.cs.utexas.edu/~rak/papers/sosp17-pebblesdb.pdf)
 - [Nova-LSM: A Distributed, Component-based LSM-tree Key-value Store](https://dl.acm.org/doi/10.1145/3448016.3457297)
 
-## Data Warehouse
+## Cloud Database
 
 - [The Snowflake Elastic Data Warehouse](https://event.cwi.nl/lsde/papers/p215-dageville-snowflake.pdf)
+- [CloudJump: optimizing cloud databases for cloud storages](https://dl.acm.org/doi/abs/10.14778/3554821.3554834)
 
 ## NewSQL
 
@@ -34,4 +35,3 @@ A list of papers I have read.
 
 - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf)
 - [Optimizing Bloom Filter: Challenges, Solutions, and Comparisons](https://arxiv.org/pdf/1804.04777.pdf)
-
