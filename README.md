@@ -31,6 +31,10 @@ A list of papers I have read.
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
 - [Strong and Efficient Consistency with Consistency-Aware Durability](https://www.usenix.org/system/files/fast20-ganesan.pdf)
 
+## Serverless
+
+- [Benchmarking, Analysis, and Optimization of Serverless Function Snapshots](https://ustiugov.github.io/assets/files/REAP_ASPLOS21.pdf)
+
 ## Others
 
 - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf)
