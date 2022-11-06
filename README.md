@@ -35,3 +35,14 @@ A list of papers I have read.
 
 - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf)
 - [Optimizing Bloom Filter: Challenges, Solutions, and Comparisons](https://arxiv.org/pdf/1804.04777.pdf)
+
+## Serverless
+
+- [Benchmarking, Analysis, and Optimization of Serverless Function Snapshots](https://ustiugov.github.io/assets/files/REAP_ASPLOS21.pdf)
+
+## Todo List
+
+- [Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook](https://www.usenix.org/system/files/fast20-cao_zhichao.pdf)
+- [Fast Scans on Key-Value Stores](https://vldb.org/pvldb/vol10/p1526-bocksrocker.pdf)
+- [Differentiated Key-Value Storage Management for Balanced I/O Performance](https://www.usenix.org/system/files/atc21-li-yongkun.pdf)
+- [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
