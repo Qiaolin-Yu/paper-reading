@@ -2,7 +2,8 @@
 
 A list of papers I have read.
 
-## LakeHouse
+## Data Lake, Data Warehouse and Lakehouse
+- [Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores](https://www.vldb.org/pvldb/vol13/p3411-armbrust.pdf)
 - [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 
 ## KV Store
